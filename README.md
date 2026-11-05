@@ -1,1 +1,1 @@
-# 01--mysql-react-node-intro.exercicios-exemplos
+# 01-🎀-mysql-react-node-intro.exercicios-exemplos
